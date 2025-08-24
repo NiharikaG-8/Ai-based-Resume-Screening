@@ -1,5 +1,5 @@
 # Ai-based-Resume-Screening
-# AI-based-Resume-Screening-System
+
 This project is a Flask-based web application for automated resume screening that supports PDF and TXT resume files. The system provides functionalities including resume categorization, job recommendation, and detailed resume parsing (information extraction).
 
 ---
